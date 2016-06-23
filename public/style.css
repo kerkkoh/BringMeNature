@@ -1,0 +1,11 @@
+body {
+  background: rgb(224, 224, 224);
+  text-align: center;
+  font-size: 1.17em;
+}
+.photo-box {
+  overflow: hidden;
+}
+img {
+  width:100% !important;
+}
